@@ -1,8 +1,8 @@
 # Diwali_Sales_Analysis
-Overview
+# Overview
 The Diwali Sales Analysis project is a Python-based data analysis project that aims to provide insights into sales patterns during the Diwali festival. The project involves several stages, including data cleaning and exploratory data analysis, to extract valuable information from the dataset.
 
-Project Details
+# Project Details
 1. Data Cleaning
 Before conducting any analysis, the dataset undergoes a data cleaning process to ensure accurate and consistent results. This step involves handling missing values, correcting data types, and addressing any inconsistencies present in the data.
 
@@ -21,17 +21,18 @@ Sales by Occupation: The top buying occupations include IT, Healthcare, and Avia
 
 Sales by Product Category: The analysis also covers sales distribution across different product categories.
 
-Conclusion
+# Conclusion
 Based on the analysis, it can be concluded that married women aged 26-35 from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors, exhibit strong purchasing power, particularly in the Food, Clothing, and Electronic categories. These insights can guide marketing and sales strategies for future Diwali seasons.
 
-Usage
+# Usage
 You are welcome to explore the code and data provided in this repository to gain a better understanding of the analysis process. Feel free to adapt the code for your own projects or contribute to further improvements.
 
-Getting Started
+# Getting Started
 To get started with this project:
 
 Clone this repository to your local machine.
 Install the required Python packages as mentioned in the requirements.txt file.
 Explore the Jupyter Notebook or Python script files to see the analysis process step by step.
-Acknowledgments
+
+# Acknowledgments
 We would like to express our gratitude to the open-source community for providing resources and tools that facilitated the completion of this project.
